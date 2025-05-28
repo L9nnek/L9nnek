@@ -26,6 +26,6 @@ Gosto de programar, aprender e colocar ideias em prática.
 <h2 align="left">Portfólio (PPEL)</h2>
 
 <p align="left">
-Portfólio reflexivo da disciplina <strong>Práticas Profissionais em Ética e Legislação</strong>.<br>
-<a href="https://l9nnek.github.io/portifolio-ppel" target="_blank"><strong>Acessar portfólio</strong></a>
+  Portfólio reflexivo da disciplina <strong>Práticas Profissionais em Ética e Legislação</strong>.<br>
+  <a href="https://l9nnek.github.io/portifolio-ppel" target="_blank" rel="noopener noreferrer"><strong>Acessar portfólio</strong></a>
 </p>
