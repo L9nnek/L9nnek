@@ -33,5 +33,5 @@
 
 <p align="left">
 Como parte da disciplina <strong>Práticas Profissionais em Ética e Legislação</strong>, estou construindo um portfólio reflexivo com experiências, aprendizados e pensamentos sobre ética na tecnologia, formação profissional e atuação consciente na área de software.<br><br>
-📄 <a href="https://docs.google.com/document/d/1tisZDZ2KxPvKFZAS7BgQZZFBaDfwNpyODuU8WC2gGnY/edit?usp=sharing" target="_blank">Clique aqui para acessar o portfólio (Google Docs)</a>
+📄 <a href="https://l9nnek.github.io/portifolio-ppel" target="_blank">Clique aqui para acessar o portfólio </a>
 </p>
