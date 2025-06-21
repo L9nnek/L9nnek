@@ -23,9 +23,4 @@ Gosto de programar, aprender e colocar ideias em prática.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
 </div>
 
-<h2 align="left">Portfólio (PPEL)</h2>
-
-<p align="left">
-  Portfólio reflexivo da disciplina <strong>Práticas Profissionais em Ética e Legislação</strong>.<br>
-  <a href="https://l9nnek.github.io/portifolio-ppel/" target="_blank" rel="noopener noreferrer"><strong>Acessar portfólio</strong></a>
 </p>
