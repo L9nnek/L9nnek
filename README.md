@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![snake svg](https://raw.githubusercontent.com/SEU-UTILIZADOR/L9nnek/output/github-contribution-grid-snake.svg)
+![snake svg](https://raw.githubusercontent.com/L9nnek/L9nnek/output/github-contribution-grid-snake.svg)
