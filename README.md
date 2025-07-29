@@ -18,11 +18,6 @@ Software Engineering student building cool things with code.
 
 ---
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=L9nnek&icon=0&color=0)](https://visitcount.itsvg.in)
