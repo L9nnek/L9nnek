@@ -12,8 +12,8 @@ Software Engineering student building cool things with code.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=L9nnek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=L9nnek&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=L9nnek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=L9nnek&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=L9nnek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
@@ -30,7 +30,7 @@ Software Engineering student building cool things with code.
 
 ---
 <div align="center">
-  
+
 [![](https://visitcount.itsvg.in/api?id=L9nnek&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![snake svg](https://raw.githubusercontent.com/L9nnek/L9nnek/output/github-contribution-grid-snake-dark.svg)
