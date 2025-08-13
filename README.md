@@ -1,6 +1,6 @@
 # 🪐 About Me  
-📡 Software Engineering student.  
-🎨 Building & learning.  
+Software Engineering student.  
+Building & learning.  
 
 ---
 
