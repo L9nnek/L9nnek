@@ -1,6 +1,6 @@
 # 🪐 About Me  
-🎨 Software Engineering student blending logic & creativity.  
-📡 Always tuning into new tech frequencies.  
+📡 Software Engineering student.  
+🎨 Building & learning.  
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-# 📡 GitHub Stats  
+# 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=L9nnek&theme=tokyonight&hide_border=true&show_icons=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=L9nnek&theme=tokyonight&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=L9nnek&theme=tokyonight&hide_border=true&layout=compact)
